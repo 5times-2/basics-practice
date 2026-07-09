@@ -1,0 +1,5 @@
+int a = 3;			//(o)
+const int b = 5;	//(o)
+const int c;		//(?)
+a = 4;				//(O)
+b = 6;				//(x)
