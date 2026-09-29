@@ -23,7 +23,8 @@ basics-practice/
 ├── computer-vision/
 ├── iot/
 ├── leetcode-practice/
-└── oop/
+├── oop/
+└── python/
 ```
 
 ## Status
