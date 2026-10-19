@@ -1,2 +1,11 @@
 .DS_Store
-.exe
+*.exe
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ML datasets and generated models
+data/
+models/
