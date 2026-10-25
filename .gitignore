@@ -9,3 +9,6 @@ __pycache__/
 # ML datasets and generated models
 data/
 models/
+
+# Private files
+private/
